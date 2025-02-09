@@ -1,0 +1,25 @@
+{
+  "name": "number-api",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Blossomifeoma/HNGtask1#readme",
+  "bugs": {
+    "url": "https://github.com/Blossomifeoma/HNGtask1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Blossomifeoma/HNGtask1.git"
+  },
+  "license": "ISC",
+  "author": "Blossom Ifeoma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
