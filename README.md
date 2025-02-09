@@ -24,9 +24,6 @@ This API was built for **HNG12 Stage 1 Backend Task** and deployed to a publicly
 
 ### **📌 Endpoint**
 GET /api/classify-number?number=<number>
-
-bash
-Copy
 ### **🔹 Example Request**
 ```sh
 GET https://your-api.onrender.com/api/classify-number?number=371
@@ -40,8 +37,6 @@ GET https://your-api.onrender.com/api/classify-number?number=371
     "fun_fact": "371 is an Armstrong number because 3^3 + 7^3 + 1^3 = 371"
 }
 🔹 Error Response (400 Bad Request)
-json
-Copy
 {
     "number": "alphabet",
     "error": true
